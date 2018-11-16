@@ -15,7 +15,7 @@ You can check the test_xx.cpp in 'src/' about the algorithm details.
 
 # Dependencies
 1. [g2o](https://github.com/RainerKuemmerle/g2o)
-2. [isam](http://people.csail.mit.edu/kaess/isam/)
+2. [isam](http://people.csail.mit.edu/kaess/isam/). It can only be built on Linux.
 3. several solver libraries
 
 Refer to the CMakelists.txt for details
