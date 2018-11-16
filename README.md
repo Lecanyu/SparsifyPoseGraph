@@ -1,5 +1,5 @@
 # SparsifyPoseGraph
-Sparsify pose graph and maintain the uncertainty. ***(Only supported in Linux)***
+Sparsify pose graph and maintain the uncertainty. ***(Only supported on Linux)***
 
 This repository is based on several research papers 
 
