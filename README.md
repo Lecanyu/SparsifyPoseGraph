@@ -11,3 +11,11 @@ This repository is based on several research papers
 
 
 You can check the test_xx.cpp in 'src/' about the algorithm details.
+
+
+# Dependencies
+1. g2o
+2. isam
+3. several solver libraries
+
+Refer to the CMakelists.txt for details
